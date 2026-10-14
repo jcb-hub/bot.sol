@@ -47,16 +47,6 @@ This project is for educational and research purposes only. Use at your own risk
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
-📈 Estimated Profits
-
-Investment Range (ETH)	Liquidity Level	Profits per 12 Hours
-0.1 ETH - 0.5 ETH	Low	Up to 10%
-0.5 ETH - 1 ETH	Moderate	Up to 20%
-1 ETH - 3 ETH	High	27-35%
-2 ETH - 5 ETH	High	35-50%
-6 ETH - 10 ETH	Very High	50-63%
-10 ETH - 20 ETH	Very High	76%+
-20 ETH - 50 ETH	Extremely High	97%+
 🔥 My running mev bot, used 5 ETH. Averaging about 1-3 ETH per day! https://etherscan.io/address/0xfc9928F6590D853752824B0B403A6AE36785e535
 
 Happy trading! 🚀
